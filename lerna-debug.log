@@ -1,0 +1,6 @@
+38 error Error: Command failed with exit code 128: git push --follow-tags --no-verify --atomic origin main
+38 error Logon failed, use ctrl+c to cancel basic credential prompt.
+38 error remote: Invalid username or password.
+38 error fatal: Authentication failed for 'https://github.com/gyfeng1003/lerna-test.git/'
+38 error     at makeError (D:\extralWork\lerna-demo\node_modules\execa\lib\error.js:60:11)
+38 error     at handlePromise (D:\extralWork\lerna-demo\node_modules\execa\index.js:118:26)
